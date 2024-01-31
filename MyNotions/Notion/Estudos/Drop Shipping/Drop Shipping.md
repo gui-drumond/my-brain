@@ -18,7 +18,7 @@ Status: In progress
 
 ## Produtos para não vender
 
-![[/Untitled 5.png|Untitled 5.png]]
+![[Untitled 5 1.png|Untitled 5 1.png]]
 
 ### Loja Nichada X Genérica
 

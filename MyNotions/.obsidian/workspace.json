@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9224b372561c6848",
+        "id": "5e81326bd112b2a3",
         "type": "tabs",
-        "dimension": 17.689530685920577,
+        "dimension": 99.99999999999999,
         "children": [
           {
-            "id": "5e141a39e0082898",
+            "id": "cc66b4bdc9b5df5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "5e81326bd112b2a3",
-        "type": "tabs",
-        "dimension": 82.31046931407943,
-        "children": [
-          {
-            "id": "cc66b4bdc9b5df5d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -101,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Welcome.md"
+              }
             }
           }
         ]
@@ -161,18 +150,19 @@
   },
   "active": "cc66b4bdc9b5df5d",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Untitled 9.png",
-    "Untitled 8.png",
-    "Untitled 7.png",
-    "Untitled 1 4.png",
-    "Untitled 6.png",
-    "docker-slides.pdf",
+    "Images/Untitled 8 1.png",
+    "Images",
+    "Images/Untitled 4 1.png",
+    "Images/Untitled 5 1.png",
     "Untitled 4 2.png",
-    "Untitled 3 2.png",
+    "Images/Untitled 7 1.png",
+    "Images/Untitled 6 1.png",
+    "Untitled 9.png",
     "Untitled 2 2.png",
-    "Untitled 1 3.png",
-    "Untitled 5.png",
+    "Untitled 3 2.png",
+    "Untitled 3.png",
+    "Welcome.md",
+    "Images/docker-slides.pdf",
     "Notion/Estudos/React/Themes/Formulários (Controlled Components vs Uncontrolled Components)/Libs que proporcionam tratativa de formulários, correção e validação (mensagens de erro).md",
     "Notion/Estudos/Node/Themes/Formulários (Controlled Components vs Uncontrolled Components)/Libs que proporcionam tratativa de formulários, correção e validação (mensagens de erro).md",
     "Notion/Conceitos/React/Themes/Formulários (Controlled Components vs Uncontrolled Components)/Libs que proporcionam tratativa de formulários, correção e validação (mensagens de erro).md",
@@ -197,7 +187,6 @@
     "Notion/Estudos/Node/Themes/Métodos HTTP , Parâmetros, Middleware.md",
     "Notion/Estudos/TYPESCRIPT/Conteúdo Omnistack.md",
     "Notion/Conceitos/TYPESCRIPT/Conteúdo Omnistack.md",
-    "Notion/Conceitos/React/Themes/useRef().md",
     "Notion/Estudos/Drop Shipping/Drop Shipping/Fornecedores",
     "Notion/Estudos/Drop Shipping/Drop Shipping/Sites",
     "Notion/Estudos/Drop Shipping/Drop Shipping",
@@ -205,7 +194,6 @@
     "Notion/Estudos/React/Themes",
     "Notion/Estudos/React",
     "Notion/Estudos/Full Stack Club/1. O que é o Node.js",
-    "Notion/Estudos/Node/Themes/Formulários (Controlled Components vs Uncontrolled Components)",
-    "Notion/Estudos/Node/Themes"
+    "Notion/Estudos/Node/Themes/Formulários (Controlled Components vs Uncontrolled Components)"
   ]
 }

@@ -35,4 +35,4 @@
 7. Olhe os inquilinos, e os estados que o fundo está envolvido.
 8. Diversifique mas não pulverize, é mais gratificante ganhar 100 reais de dividendo de um fundo só, do que 5 reais em 20, fora a trabalheira pra declarar o ir.
 
-![[/Untitled 2.png|Untitled 2.png]]
+![[metedo barsi.png|metedo barsi.png]]

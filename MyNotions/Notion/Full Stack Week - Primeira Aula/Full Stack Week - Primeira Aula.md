@@ -113,7 +113,7 @@ model TripReservation {
 
 **Exemplo:**
 
-![[Untitled.png]]
+![[Untitled 2.png]]
 
 Neste caso, teríamos duas rotas: a home page (/) e a /about. Poderíamos também criar um `layout` para a rota /about.
 
@@ -121,7 +121,7 @@ Neste caso, teríamos duas rotas: a home page (/) e a /about. Poderíamos també
 
 Essas rotas sempre serão exibidas mesmo se passarmos parâmetros adicionais. Elas são definidas como `[...about]`. Por exemplo:
 
-![[Untitled 1.png]]
+![[Untitled 1 1.png]]
 
 Se acessarmos `about/a` ou até mesmo `about123` essa `page.tsx` será renderizada.
 
