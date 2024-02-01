@@ -12,11 +12,10 @@
             "id": "cc66b4bdc9b5df5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
+                "file": "MyNotions/.obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -86,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,17 +122,31 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "857c676b374d41eb",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "8aacaf2290b6e9c7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 387.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,6 +161,17 @@
   },
   "active": "cc66b4bdc9b5df5d",
   "lastOpenFiles": [
+    "Notion/Termos Técnicos.md",
+    "Diario/31-01-2024.md",
+    "Untitled.canvas",
+    "Diario",
+    "Notion/Conceitos/Conceitos.md",
+    "Notion/Conceitos/React/Themes/Integração do Yup com o React Hook Forms.md",
+    "Notion/Conceitos/React/React.md",
+    "Notion/Estudos/React.md",
+    "Welcome.md",
+    "Notion/Steam.md",
+    "Notion/Conceitos/TYPESCRIPT/Conteúdo Omnistack.md",
     "Images/Untitled 8 1.png",
     "Images",
     "Images/Untitled 4 1.png",
@@ -161,7 +183,6 @@
     "Untitled 2 2.png",
     "Untitled 3 2.png",
     "Untitled 3.png",
-    "Welcome.md",
     "Images/docker-slides.pdf",
     "Notion/Estudos/React/Themes/Formulários (Controlled Components vs Uncontrolled Components)/Libs que proporcionam tratativa de formulários, correção e validação (mensagens de erro).md",
     "Notion/Estudos/Node/Themes/Formulários (Controlled Components vs Uncontrolled Components)/Libs que proporcionam tratativa de formulários, correção e validação (mensagens de erro).md",
@@ -179,21 +200,12 @@
     "Notion/Estudos/React/Themes/Como fazer a desestruturação das propriedades de dentro de uma interface.md",
     "Notion/Estudos/React/Themes/Cacheamento com o ReactQuery.md",
     "Notion/Estudos/React/Themes/Chakra Ui.md",
-    "Notion/Estudos/React/Themes/Diferença entre CloneElement e propriedade Children.md",
-    "Notion/Estudos/React/Themes/Link NextJS.md",
-    "Notion/Estudos/React/Themes/MirageJs.md",
-    "Notion/Estudos/Full Stack Club/1. O que é o Node.js/1. O que é o Node.js.md",
-    "Notion/Estudos/Node/Themes/Formulários (Controlled Components vs Uncontrolled Components)/Formulários (Controlled Components vs Uncontrolled Components).md",
-    "Notion/Estudos/Node/Themes/Métodos HTTP , Parâmetros, Middleware.md",
-    "Notion/Estudos/TYPESCRIPT/Conteúdo Omnistack.md",
-    "Notion/Conceitos/TYPESCRIPT/Conteúdo Omnistack.md",
     "Notion/Estudos/Drop Shipping/Drop Shipping/Fornecedores",
     "Notion/Estudos/Drop Shipping/Drop Shipping/Sites",
     "Notion/Estudos/Drop Shipping/Drop Shipping",
     "Notion/Estudos/React/Themes/Formulários (Controlled Components vs Uncontrolled Components)",
     "Notion/Estudos/React/Themes",
     "Notion/Estudos/React",
-    "Notion/Estudos/Full Stack Club/1. O que é o Node.js",
-    "Notion/Estudos/Node/Themes/Formulários (Controlled Components vs Uncontrolled Components)"
+    "Notion/Estudos/Full Stack Club/1. O que é o Node.js"
   ]
 }

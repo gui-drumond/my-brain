@@ -85,7 +85,7 @@ Sprint 2 semanas
 |[[Sprint 3]]|February 16, 2022 3:03 PM|March 16, 2022 → March 30, 2022||
 |[[Sprint 2]]|February 16, 2022 3:03 PM|March 2, 2022 → March 16, 2022||
 |[[Sprint 1]]|February 16, 2022 3:03 PM|February 16, 2022 → March 2, 2022||
-|[[Untitled]]|February 16, 2022 3:59 PM|||
+|[[Notion/Check List alinhamento 16-02/Sprints do projeto/Untitled]]|February 16, 2022 3:59 PM|||
 
   
   
