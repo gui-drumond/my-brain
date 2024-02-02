@@ -27,8 +27,11 @@
             "id": "fbfa383acacc3e9b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "MyNotions/.obsidian/workspace.json",
+                "staged": false
+              }
             }
           }
         ],
@@ -98,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Checklist Ativos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Checklist Ativos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Checklist Ativos.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -190,8 +189,8 @@
   },
   "active": "fbfa383acacc3e9b",
   "lastOpenFiles": [
-    "2024-02-09.md",
     "Checklist Ativos.md",
+    "2024-02-09.md",
     "Diario/2024-02-02.md",
     "Notion/Finanças/Payout.md",
     "Notion/Finanças/Finanças.md",
