@@ -1,4 +1,11 @@
 [
   "obsidian-importer",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-kanban",
+  "templater-obsidian",
+  "google-calendar",
+  "calendar",
+  "periodic-notes",
+  "highlightr-plugin",
+  "obsidian-livesync"
 ]

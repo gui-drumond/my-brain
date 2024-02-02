@@ -21,7 +21,7 @@ tags:
 
 ## Como funciona o cacheamento:
 
-Este trecho de código é um usuário passado para requisição (número id é passado ao clicar no botão). O pre
+Este trecho de código é um usuário passado para requisição (número id é passado ao clicar no botão).  
 
 ```JavaScript
 async function handlePrefetchUser(userId: number){

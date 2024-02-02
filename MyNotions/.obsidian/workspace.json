@@ -6,20 +6,33 @@
       {
         "id": "5e81326bd112b2a3",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "cc66b4bdc9b5df5d",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "MyNotions/.obsidian/workspace.json",
-                "staged": false
-              }
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "4ec3c3952d02a4a7",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-web",
+              "state": {}
+            }
+          },
+          {
+            "id": "fbfa383acacc3e9b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 307.5
   },
   "right": {
     "id": "dab536152b7027ab",
@@ -85,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Checklist Ativos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Checklist Ativos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Checklist Ativos.md"
+              }
             }
           },
           {
@@ -140,13 +157,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "c525739524372297",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 387.5
+    "width": 386.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,22 +181,47 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:Show log": false,
+      "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "cc66b4bdc9b5df5d",
+  "active": "fbfa383acacc3e9b",
   "lastOpenFiles": [
-    "Notion/Termos Técnicos.md",
+    "2024-02-09.md",
+    "Checklist Ativos.md",
+    "Diario/2024-02-02.md",
+    "Notion/Finanças/Payout.md",
+    "Notion/Finanças/Finanças.md",
+    "2024-02-02.md",
+    "Notion/Metodologia RUP  (Rational Unified Process).md",
+    "Notion/Check List alinhamento 16-02 (PROJETO GLOBO)/Sprints do projeto/Sprint 1/Sprint 1.md",
+    "Notion/Check List alinhamento 16-02 (PROJETO GLOBO)/Check List alinhamento 16-02.md",
+    "Notion/Check List alinhamento 16-02 (PROJETO GLOBO)/Participantes do Time.md",
+    "Notion/Full Stack Week - Primeira Aula/Full Stack Week - Primeira Aula.md",
+    "Notion/Entrevista.md",
     "Diario/31-01-2024.md",
+    "kanban.md",
+    "Notion/Finanças/Método Barsi.md",
+    "Notion/Termos Técnicos/Termos Técnicos.md",
+    "Notion/Termos Técnicos/Monolítico ou Monólito.md",
+    "Notion/Termos Técnicos/Aplicação Microserviços.md",
+    "Notion/Termos Técnicos",
+    "Notion/Conceitos/WebPack Server e Tudo Relacionado/Plugins/Source Map.md",
+    "Notion/Conceitos/WebPack Server e Tudo Relacionado/Plugins/Sass Loader.md",
+    "Notion/Conceitos/WebPack Server e Tudo Relacionado/Plugins/Instalação.md",
+    "Notion/Conceitos/WebPack Server e Tudo Relacionado/Plugins/Como configurar WebPack para Prod e Develop.md",
+    "Notion/Conceitos/TYPESCRIPT/TYPESCRIPT.md",
+    "Notion/Conceitos/React/Themes/Link NextJS.md",
+    "Notion/Conceitos/React/Themes/React Cookies.md",
+    "Notion/Conceitos/React/Themes/useRef().md",
+    "Notion/Conceitos/IAs",
+    "Notion/Conceitos/Libs",
+    "Notion/Roteiros para videos",
     "Untitled.canvas",
     "Diario",
-    "Notion/Conceitos/Conceitos.md",
-    "Notion/Conceitos/React/Themes/Integração do Yup com o React Hook Forms.md",
-    "Notion/Conceitos/React/React.md",
-    "Notion/Estudos/React.md",
-    "Welcome.md",
-    "Notion/Steam.md",
-    "Notion/Conceitos/TYPESCRIPT/Conteúdo Omnistack.md",
     "Images/Untitled 8 1.png",
     "Images",
     "Images/Untitled 4 1.png",
@@ -184,28 +234,8 @@
     "Untitled 3 2.png",
     "Untitled 3.png",
     "Images/docker-slides.pdf",
-    "Notion/Estudos/React/Themes/Formulários (Controlled Components vs Uncontrolled Components)/Libs que proporcionam tratativa de formulários, correção e validação (mensagens de erro).md",
-    "Notion/Estudos/Node/Themes/Formulários (Controlled Components vs Uncontrolled Components)/Libs que proporcionam tratativa de formulários, correção e validação (mensagens de erro).md",
-    "Notion/Conceitos/React/Themes/Formulários (Controlled Components vs Uncontrolled Components)/Libs que proporcionam tratativa de formulários, correção e validação (mensagens de erro).md",
-    "Notion/Conceitos/Node/Themes/Formulários (Controlled Components vs Uncontrolled Components)/Libs que proporcionam tratativa de formulários, correção e validação (mensagens de erro).md",
-    "Notion/Estudos/Drop Shipping/Drop Shipping/Untitled.md",
-    "Notion/Estudos/Drop Shipping/Drop Shipping/COPY - O que um produto precisa ter.md",
-    "Notion/Estudos/Drop Shipping/Drop Shipping/COPY - Questões para de Pesquisa de produtos.md",
-    "Notion/Estudos/Drop Shipping/Drop Shipping/Fornecedores/Fornecedores.md",
-    "Notion/Estudos/Drop Shipping/Drop Shipping/Sites/Sites.md",
-    "Notion/Estudos/React/Themes/useRef().md",
-    "Notion/Estudos/React/Themes/Integração do Yup com o React Hook Forms.md",
-    "Notion/Estudos/React/Themes/Biblioteca Para Validação de dados em Schema (YUP).md",
-    "Notion/Estudos/React/Themes/Formulários (Controlled Components vs Uncontrolled Components)/Formulários (Controlled Components vs Uncontrolled Components).md",
-    "Notion/Estudos/React/Themes/Como fazer a desestruturação das propriedades de dentro de uma interface.md",
-    "Notion/Estudos/React/Themes/Cacheamento com o ReactQuery.md",
-    "Notion/Estudos/React/Themes/Chakra Ui.md",
     "Notion/Estudos/Drop Shipping/Drop Shipping/Fornecedores",
     "Notion/Estudos/Drop Shipping/Drop Shipping/Sites",
-    "Notion/Estudos/Drop Shipping/Drop Shipping",
-    "Notion/Estudos/React/Themes/Formulários (Controlled Components vs Uncontrolled Components)",
-    "Notion/Estudos/React/Themes",
-    "Notion/Estudos/React",
-    "Notion/Estudos/Full Stack Club/1. O que é o Node.js"
+    "Notion/Estudos/Drop Shipping/Drop Shipping"
   ]
 }

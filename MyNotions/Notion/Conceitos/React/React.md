@@ -8,7 +8,7 @@ Created By: Guilherme Drumond
 |Name|Tags|
 |---|---|
 |[[React Cookies]]|Next, React|
-|[[MirageJs]]|React, miragejs, mock|
+|[[Notion/Conceitos/React/Themes/MirageJs]]|React, miragejs, mock|
 |[[Integração do Yup com o React Hook Forms]]|React, React Hook Form, Yup|
 |[[Biblioteca Para Validação de dados em Schema (YUP)]]|Yup|
 |[[useRef()]]|React|

@@ -1,0 +1,1 @@
+![[metedo barsi.png|metedo barsi.png]]
