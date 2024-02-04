@@ -12,5 +12,5 @@
 |[[Kubernetes]]||Not started|||
 |[[Estudos/TYPESCRIPT/TYPESCRIPT\|TYPESCRIPT]]||Not started|||
 |[[Condicionais do JavaScript]]||Not started|||
-|[[Estudos/Node\|Node]]||Not started|||
-|[[Estudos/React\|React]]||Not started|||
+|[[Node 1|Node]]||Not started|||
+|[[React|React]]||Not started|||

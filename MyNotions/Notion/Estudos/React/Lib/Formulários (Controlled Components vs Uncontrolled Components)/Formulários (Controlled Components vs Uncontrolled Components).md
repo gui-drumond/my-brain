@@ -4,7 +4,7 @@ tags:
 ---
 ---
 
-[[Estudos/Node/Themes/Formulários (Controlled Components vs Uncontrolled Components)/Libs que proporcionam tratativa de formulários, correção e validação (mensagens de erro)|Libs que proporcionam tratativa de formulários, correção e validação (mensagens de erro)]]
+[[MyNotions/Notion/Estudos/React/Lib/Formulários (Controlled Components vs Uncontrolled Components)/Libs que proporcionam tratativa de formulários, correção e validação (mensagens de erro)|Libs que proporcionam tratativa de formulários, correção e validação (mensagens de erro)]]
 
 No react temos dois tipos de métodos:
 

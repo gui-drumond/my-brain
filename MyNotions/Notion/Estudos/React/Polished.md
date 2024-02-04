@@ -18,3 +18,5 @@ O seu uso é para estilização, funções para criação de animação e efeito
     ```JavaScript
     yarn add polished
     ```
+
+(ele faz parte do styled-components)
