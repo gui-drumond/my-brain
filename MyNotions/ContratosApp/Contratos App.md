@@ -1,0 +1,8 @@
+---
+tags:
+  - aplicativo
+---
+
+
+
+[[Tarefas]]

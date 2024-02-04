@@ -1,6 +1,8 @@
 ---
 tags:
   - React
+  - lib
+  - Estilização
 ---
 ---
 

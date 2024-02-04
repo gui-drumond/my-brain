@@ -1,0 +1,1 @@
+Volumes são pastas compartilhadas com containers do docker

@@ -4,38 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5e81326bd112b2a3",
+        "id": "6d976338c5af2931",
         "type": "tabs",
         "children": [
           {
-            "id": "cc66b4bdc9b5df5d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "4ec3c3952d02a4a7",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-web",
-              "state": {}
-            }
-          },
-          {
-            "id": "fbfa383acacc3e9b",
+            "id": "8cbf973d314d8be2",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "MyNotions/.obsidian/workspace.json",
+                "file": "MyNotions/Diario/02-02-2024.md",
                 "staged": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,11 +64,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 281.5004348754883
   },
   "right": {
     "id": "dab536152b7027ab",
@@ -170,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,35 +171,37 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "fbfa383acacc3e9b",
+  "active": "8aacaf2290b6e9c7",
   "lastOpenFiles": [
+    "Diario/04-02-2024.md",
+    "Diario/Untitled.md",
+    "2024-W05.md",
+    "Radix-ui.md",
+    "Notion/Estudos/React/Themes/Shadcn.md",
+    "Notion/Estudos/React/Lib/Estilização.md",
+    "Diario/03-02-2024.md",
+    "Diario/02-02-2024.md",
+    "ContratosApp/Criar o Setup do projeto.md",
+    "Notion/Estudos/React/Themes/MirageJs.md",
+    "ContratosApp/Tarefas.md",
+    "ContratosApp/Contratos App.md",
     "Checklist Ativos.md",
-    "2024-02-09.md",
-    "Diario/2024-02-02.md",
-    "Notion/Finanças/Payout.md",
-    "Notion/Finanças/Finanças.md",
-    "2024-02-02.md",
+    "ContratosApp",
     "Notion/Metodologia RUP  (Rational Unified Process).md",
-    "Notion/Check List alinhamento 16-02 (PROJETO GLOBO)/Sprints do projeto/Sprint 1/Sprint 1.md",
-    "Notion/Check List alinhamento 16-02 (PROJETO GLOBO)/Check List alinhamento 16-02.md",
-    "Notion/Check List alinhamento 16-02 (PROJETO GLOBO)/Participantes do Time.md",
-    "Notion/Full Stack Week - Primeira Aula/Full Stack Week - Primeira Aula.md",
     "Notion/Entrevista.md",
-    "Diario/31-01-2024.md",
-    "kanban.md",
-    "Notion/Finanças/Método Barsi.md",
-    "Notion/Termos Técnicos/Termos Técnicos.md",
-    "Notion/Termos Técnicos/Monolítico ou Monólito.md",
-    "Notion/Termos Técnicos/Aplicação Microserviços.md",
+    "Notion/Estudos/React/Themes/Chakra Ui.md",
+    "Notion/Conceitos/WebPack Server e Tudo Relacionado/Plugins/Usando estilos (CSS) com Webpack.md",
+    "Notion/Conceitos/Polished.md",
+    "Notion/Estudos/React/Themes/Cacheamento com o ReactQuery.md",
+    "Notion/Estudos/React/Themes/Formulários (Controlled Components vs Uncontrolled Components)/Libs que proporcionam tratativa de formulários, correção e validação (mensagens de erro).md",
+    "Notion/Conceitos/React/Themes/Chakra Ui.md",
+    "Notion/Estudos/React/Lib",
+    "Notion/Estudos/React/Themes/Integração do Yup com o React Hook Forms.md",
+    "Notion/Estudos/React/Themes/Diferença entre CloneElement e propriedade Children.md",
+    "Notion/Estudos/React/Themes/Como fazer a desestruturação das propriedades de dentro de uma interface.md",
+    "Notion/Estudos/React/Themes/Biblioteca Para Validação de dados em Schema (YUP).md",
+    "Notion/Estudos/Docker/Volumes.md",
     "Notion/Termos Técnicos",
-    "Notion/Conceitos/WebPack Server e Tudo Relacionado/Plugins/Source Map.md",
-    "Notion/Conceitos/WebPack Server e Tudo Relacionado/Plugins/Sass Loader.md",
-    "Notion/Conceitos/WebPack Server e Tudo Relacionado/Plugins/Instalação.md",
-    "Notion/Conceitos/WebPack Server e Tudo Relacionado/Plugins/Como configurar WebPack para Prod e Develop.md",
-    "Notion/Conceitos/TYPESCRIPT/TYPESCRIPT.md",
-    "Notion/Conceitos/React/Themes/Link NextJS.md",
-    "Notion/Conceitos/React/Themes/React Cookies.md",
-    "Notion/Conceitos/React/Themes/useRef().md",
     "Notion/Conceitos/IAs",
     "Notion/Conceitos/Libs",
     "Notion/Roteiros para videos",
@@ -233,8 +219,6 @@
     "Untitled 3 2.png",
     "Untitled 3.png",
     "Images/docker-slides.pdf",
-    "Notion/Estudos/Drop Shipping/Drop Shipping/Fornecedores",
-    "Notion/Estudos/Drop Shipping/Drop Shipping/Sites",
-    "Notion/Estudos/Drop Shipping/Drop Shipping"
+    "Notion/Estudos/Drop Shipping/Drop Shipping/Fornecedores"
   ]
 }

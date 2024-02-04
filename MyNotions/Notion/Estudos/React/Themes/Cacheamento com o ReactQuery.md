@@ -3,6 +3,7 @@ tags:
   - Cache
   - React
   - react-query
+  - lib
 ---
 # Para que serve esta lib de controle de cache?
 

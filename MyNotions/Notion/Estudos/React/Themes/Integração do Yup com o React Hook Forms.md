@@ -3,6 +3,8 @@ tags:
   - React
   - React-Hook-Form
   - Yup
+  - lib
+  - validação
 ---
 Basicamente devemos fazer a instalação da lib
 

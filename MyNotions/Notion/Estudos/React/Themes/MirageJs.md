@@ -3,6 +3,7 @@ tags:
   - React
   - miragejs
   - mock
+  - lib
 ---
 Biblioteca para simulação de dados e mockagem, fazendo com que a aplicação possa funcionar sem um backend predefinido.
 
