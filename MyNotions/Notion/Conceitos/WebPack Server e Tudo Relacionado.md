@@ -1,9 +1,9 @@
 ---
 Created: 2022-01-26T09:12
 Last Edited Time: 2022-01-26T09:12
-Tag:
+tags:
   - Começando
-  - Em progresso
+  - progresso
   - React
 Created By: Guilherme Drumond
 Participants: Guilherme Drumond
